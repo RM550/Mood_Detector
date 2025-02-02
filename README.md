@@ -39,7 +39,7 @@ To run the Mood Checker web app locally, follow these steps:
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Mood Checker web app [here](https://your-live-demo-link.com).
+Check out the live demo of the Mood Checker web app [Click me](https://rm550.github.io/Mood_Detector/).
 
 ## 📄 License
 
